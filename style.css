@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .fon{
-    background-image: url('../figma/foto/coffee-beans-top-view-white-background-space-text\ 1.png');
+    background-image: url('./foto/coffee-beans-top-view-white-background-space-text\ 1.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 100% 100%;
